@@ -1,0 +1,29 @@
+Date: Thu, 18 Oct 2018 15:27:45 +0800
+From: zhusaidong <zhusaidong@0.0.1>
+To: 635925926 <635925926@qq.com>
+Subject: =?GB2312?B?08q8/teqt6I=?=
+X-Priority: 3
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.156[cn]
+Mime-Version: 1.0
+Message-ID: <201810181527452281222@0.0.1>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart184708532261_=----"This is a multi-part message in MIME format.
+
+------=_001_NextPart184708532261_=----
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Transfer-Encoding: base64
+
+DQrTyrz+16q3og0KDQoNCnpodXNhaWRvbmcNCg==
+
+------=_001_NextPart184708532261_=----
+Content-Type: text/html;
+	charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3DGB2312"><style>body { line-height: 1.5; }body { font-size: 10.5pt; fon=
+t-family: 'Segoe UI'; color: rgb(0, 0, 0); line-height: 1.5; }body { font-=
+size: 10.5pt; font-family: 'Segoe UI'; color: rgb(0, 0, 0); line-height: 1=
+.
